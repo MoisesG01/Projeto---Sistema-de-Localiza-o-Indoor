@@ -38,8 +38,8 @@ A técnica de **trilateração** é aplicada para calcular a posição do beacon
 
 ## Pré-requisitos
 
-- **Arduino IDE**
-  - Bibliotecas Arduino:
+- **Arduino IDE ou PlatformIO IDE para VSCode**
+  - Bibliotecas:
     - WiFi
     - PubSubClient
     - BLEDevice
@@ -51,15 +51,13 @@ A técnica de **trilateração** é aplicada para calcular a posição do beacon
 
 ## Instalação
 
-### Arduino
-
 1. Clone este repositório:
 
     ```sh
     git clone https://github.com/MoisesG01/IndoorPositioningSystem.git
     ```
 
-2. Abra o arquivo `IndoorPositioningSystem.ino` no Arduino IDE.
+2. Abra o arquivo `IndoorPositioningSystem` na IDE.
 3. Certifique-se de que você tem as bibliotecas necessárias instaladas:
    - WiFi
    - PubSubClient
