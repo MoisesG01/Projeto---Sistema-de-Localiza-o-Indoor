@@ -54,7 +54,7 @@ A técnica de **trilateração** é aplicada para calcular a posição do beacon
 1. Clone este repositório:
 
     ```sh
-    git clone https://github.com/MoisesG01/IndoorPositioningSystem.git
+    git clone https://github.com/MoisesG01/IndoorPositioningSystem.git](https://github.com/MoisesG01/Sistema-de-Localizacao-Indoor.git
     ```
 
 2. Abra o arquivo na IDE, devidamente configurada.
